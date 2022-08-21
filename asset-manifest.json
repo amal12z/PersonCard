@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PersonCard/static/css/main.bee840b0.css",
+    "main.js": "/PersonCard/static/js/main.6c01f236.js",
+    "index.html": "/PersonCard/index.html",
+    "main.bee840b0.css.map": "/PersonCard/static/css/main.bee840b0.css.map",
+    "main.6c01f236.js.map": "/PersonCard/static/js/main.6c01f236.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bee840b0.css",
+    "static/js/main.6c01f236.js"
+  ]
+}
